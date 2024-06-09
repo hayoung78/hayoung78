@@ -19,6 +19,9 @@
   
 </div>
 
+<img src="https://github.com/hayoung78/hayoung78/blob/output/github-snake.svg" width="100%">
+
+
 
 <!--
 **hayoung78/hayoung78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
