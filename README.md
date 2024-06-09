@@ -6,6 +6,20 @@
   
   
 </div>
+<div align="center">
+  
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hayoung78?pet-id=587244599248005864&contribution-view=false"
+    width="500"
+    height="100"
+  />
+</a>
+  
+
+</div>
+
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoung78&layout=donut&show_icons=true&theme=shadow_blue&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
