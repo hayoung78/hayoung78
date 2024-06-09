@@ -12,7 +12,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/hayoung78?pet-id=587616522557558999&contributions-view-false"
+    src="https://render.gitanimals.org/lines/hayoung78?pet-id=587616522557558999&contribution-view=false"
     width="600"
     height="120"
   />
