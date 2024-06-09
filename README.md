@@ -9,13 +9,15 @@
 <div align="center">
   
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/hayoung78?pet-id=587244599248005864&contribution-view=false"
-    width="500"
-    height="100"
+    src="https://render.gitanimals.org/lines/hayoung78?pet-id=587616522557558999&contributions-view-false"
+    width="600"
+    height="120"
   />
 </a>
+  
   
 
 </div>
