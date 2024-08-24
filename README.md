@@ -14,7 +14,7 @@
   <img
     src="https://render.gitanimals.org/lines/hayoung78?pet-id=587616522557558999&contribution-view=false"
     width="700"
-    height="130"
+    height="140"
   />
 </a>
   
